@@ -1,0 +1,69 @@
+commit 9b053b3d37ffb4b6dbd028b475b14f6625caf508
+Merge: fa0faae 362e8eb
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 14:17:01 2024 +0200
+
+    Ostateczna data
+
+commit fa0faaec6745fdb7340b7a91758f2d3ae042b7f8
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 14:15:18 2024 +0200
+
+    Zmiana daty - loklanie - konflikt
+
+commit 362e8ebea161f8fefaf4e7f0e7371d55511d5a18
+Author: Paweł Kolec <152896725+pawelkolec7@users.noreply.github.com>
+Date:   Thu Oct 24 14:13:26 2024 +0200
+
+    Zmiana daty - konflikt
+
+commit a2a332222497d3cc34913c4e27918519def86973
+Merge: 18e6631 ad05f7a
+Author: Paweł Kolec <152896725+pawelkolec7@users.noreply.github.com>
+Date:   Thu Oct 24 15:11:21 2024 +0300
+
+    Merge pull request #1 from pawelkolec7/new_branch
+    
+    new_branch_merge
+
+commit ad05f7a95f76c04b7d05ae876ed907caf904cca6
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 14:06:30 2024 +0200
+
+    Trzecia zmiana
+
+commit b85a0a34895cf43c520b043dda08a543470ec7f8
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 14:04:03 2024 +0200
+
+    Druga zmiana
+
+commit b16da741e6984781f078697243521b73204aba0a
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 14:02:13 2024 +0200
+
+    Pierwsza zmiana
+
+commit 18e6631d08bca97f946b6e039c3632ebc8f5cdd6
+Author: Paweł Kolec <152896725+pawelkolec7@users.noreply.github.com>
+Date:   Thu Oct 24 13:56:09 2024 +0200
+
+    Pierwszy update README.md na github
+
+commit 7cfd62e7bac38a08159f8c2af3da642099cf432c
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 13:49:25 2024 +0200
+
+    Dodanie program.java
+
+commit ccad1434f3a4d1c8c470095f56768a1e4f1e585a
+Author: Pawel <pawel.kolec@student.put.poznan.pl>
+Date:   Thu Oct 24 13:44:37 2024 +0200
+
+    Dodanie imienia i nazwiska
+
+commit 58a5b8adcac3b82ca7c702c33b5c50170c928814
+Author: Paweł Kolec <152896725+pawelkolec7@users.noreply.github.com>
+Date:   Thu Oct 24 13:40:25 2024 +0200
+
+    Initial commit
